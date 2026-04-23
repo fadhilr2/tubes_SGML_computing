@@ -11,4 +11,3 @@ build/
 data/
 .ipynb_checkpoints/
 wandb/
-*.csv
