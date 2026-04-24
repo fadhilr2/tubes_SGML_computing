@@ -8,6 +8,7 @@ build/
 *.pth
 *.h5
 *.pkl
+*.csv
 data/
 .ipynb_checkpoints/
 wandb/
